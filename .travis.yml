@@ -4,6 +4,9 @@ node_js:
 branches:
   only:
   - master
+cache:
+  directories:
+    - node_modules
 before_install:
 - openssl aes-256-cbc -K $encrypted_5e8faa2bf38a_key -iv $encrypted_5e8faa2bf38a_iv
   -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
@@ -18,5 +21,6 @@ install:
 - npm install
 script:
 - hexo clean
+- hexo g
 after_success:
-- hexo deploy
+- hexo d
