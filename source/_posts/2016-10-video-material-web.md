@@ -7,7 +7,7 @@ tags:
 - 纽约
 photos:
 - http://7xqlo4.com1.z0.glb.clouddn.com/098cd229870f59b03bc74e294ecce992.webm
-- http://7xqmjb.com1.z0.glb.clouddn.com/20161010147610949112919.jpg
+- http://7xqlo4.com1.z0.glb.clouddn.com/2bb477d8c60c798e1210b891dd51f3ee.jpg
 ---
 
 看到一个网站的背景十分的好看，收藏一下作为背景素材。
