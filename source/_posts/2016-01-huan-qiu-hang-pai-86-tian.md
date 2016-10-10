@@ -7,6 +7,7 @@ tags:
 - 王源宗
 photos:
 - http://7xqlo4.com1.z0.glb.clouddn.com/b34017fd3009352bed5b9521096e8616.mp4
+- http://7xqlo4.com1.z0.glb.clouddn.com/f36ab461b92244980b8e5bc832f93954.png
 ---
 
 ![环球航拍86天](http://7xqlo4.com1.z0.glb.clouddn.com/738a4fd830ba1c2e4e1dafdf7cca0845.jpg)

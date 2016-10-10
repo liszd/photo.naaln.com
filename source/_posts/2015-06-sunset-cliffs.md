@@ -7,6 +7,7 @@ tags:
 - 日落悬崖
 photos:
 - http://7xqlo4.com1.z0.glb.clouddn.com/7f4ea5f440b9486e1ccd458f86ff307d.mp4
+- http://7xqlo4.com1.z0.glb.clouddn.com/01d9c5fdeedbc8a86ce34e017572d1dc.png
 ---
 
 ![Sunset Cliffs](http://7xqlo4.com1.z0.glb.clouddn.com/7f3f1765af0d62a280b94cfdaa1a8ed7.jpeg)
