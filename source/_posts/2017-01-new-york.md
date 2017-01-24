@@ -1,6 +1,6 @@
 title: 纽约
 categories:
-  - photo
+- photo
 date: 2017-01-24 16:27:36
 tags:
 - 纽约州
