@@ -8,11 +8,11 @@ subtitle: 人生若如初見
 description: 人生若如初見
 author: Liam
 language: 
-timezone: America/New_York
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.naaln.com
+url: https://photo.naaln.com
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:

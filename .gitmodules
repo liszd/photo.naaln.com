@@ -1,0 +1,3 @@
+[submodule "themes/WhyL"]
+	path = themes/WhyL
+	url = https://github.com/liszd/hexo-theme-whyl.git

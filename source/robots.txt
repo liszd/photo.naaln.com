@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://photo.naaln.com/sitemap.xml
-Sitemap: http://photo.naaln.com/baidusitemap.xml
+Sitemap: https://photo.naaln.com/sitemap.xml
+Sitemap: https://photo.naaln.com/baidusitemap.xml
