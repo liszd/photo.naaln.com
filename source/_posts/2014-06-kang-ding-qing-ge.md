@@ -6,7 +6,7 @@ tags:
 - 四川
 - 康定
 photos:
-- http://7xqlo4.com1.z0.glb.clouddn.com/50640e2233b649b54c3f09fdb6e5a954.jpeg
+- http://pics.naaln.com/50640e2233b649b54c3f09fdb6e5a954.jpeg
 ---
 
 跑马溜溜的山上，一朵溜溜的云哟

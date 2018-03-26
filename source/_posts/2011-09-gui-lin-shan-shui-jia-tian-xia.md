@@ -6,13 +6,13 @@ tags:
 - 广西
 - 桂林
 photos:
-- http://7xqlo4.com1.z0.glb.clouddn.com/2cd889cdd592f86cc0382843cb965b11.JPG
+- http://pics.naaln.com/2cd889cdd592f86cc0382843cb965b11.JPG
 ---
 
-![桂林山水甲天下](http://7xqlo4.com1.z0.glb.clouddn.com/bf92e68e962a41d1747fc944c7423017.JPG)
+![桂林山水甲天下](http://pics.naaln.com/bf92e68e962a41d1747fc944c7423017.JPG)
 
-![桂林山水甲天下](http://7xqlo4.com1.z0.glb.clouddn.com/4ed9e3b595779d17cbfad2d4a287070a.JPG)
+![桂林山水甲天下](http://pics.naaln.com/4ed9e3b595779d17cbfad2d4a287070a.JPG)
 
-![桂林山水甲天下](http://7xqlo4.com1.z0.glb.clouddn.com/a1b1cfa18f876f914124b9a25afbb3b9.JPG)
+![桂林山水甲天下](http://pics.naaln.com/a1b1cfa18f876f914124b9a25afbb3b9.JPG)
 
 感慨那时候自己的好玩，从拍摄的时间看，可能那只是个普通的周末。我和剃天直奔桂林，虽然大一的时候一个和cster们去了一次，不过这次只要是去看梯田。不过话说这次的回忆还真是奇妙。我们在广州装转了3，4个车站，都找不到可以去桂林的车。最后在心灰意冷的时候上了一辆黑大巴。票价比一帮人贵还不是，我们还要躺着大巴车的过道了，熬了一个晚上。我们直奔梯田，并在梯田里订了一家山顶的酒店，想看日出。我们逛了半天后发现梯田一家逛完了，又决定第二天换个风景区看看。坑爹的是我们找不到我们订的酒店了。（包和行李全都在那个酒店了。）当我们拿到行李下山时，车刚刚好开走，我们又搭里黑车去了小镇，住在了一个小旅馆里。折腾了一天。不过第二天的风景还是很不错哦~

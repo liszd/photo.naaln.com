@@ -6,9 +6,9 @@ tags:
 - 怀俄明州
 - 黄石国家公园
 photos:
-- http://7xqlo4.com1.z0.glb.clouddn.com/1d088d01a1f361b4a10c39d503ed56cd.jpeg
+- http://pics.naaln.com/1d088d01a1f361b4a10c39d503ed56cd.jpeg
 ---
 
-![Yellowstone National Park](http://7xqlo4.com1.z0.glb.clouddn.com/3fb1ad9db35371e49787785e0bdea905.jpeg)
+![Yellowstone National Park](http://pics.naaln.com/3fb1ad9db35371e49787785e0bdea905.jpeg)
 
 黄石国家公园是美国第一个国家公园。

@@ -6,5 +6,5 @@ tags:
 - 纽约州
 - 纽约
 photos:
-- https://ww2.sinaimg.cn/large/006tNc79gy1fc2fczn46tj31kw0zkb29.jpg
+- http://pics.naaln.com/006tNc79gy1fc2fczn46tj31kw0zkb29.jpg
 ---
