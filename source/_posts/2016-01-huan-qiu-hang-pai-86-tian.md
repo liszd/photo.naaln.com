@@ -6,7 +6,7 @@ tags:
 - 环球
 - 王源宗
 photos:
-- http://pics.naaln.com/b34017fd3009352bed5b9521096e8616.mp4
+- http://video.naaln.com/b34017fd3009352bed5b9521096e8616.mp4
 - http://pics.naaln.com/f36ab461b92244980b8e5bc832f93954.png
 ---
 

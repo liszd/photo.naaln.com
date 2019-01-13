@@ -70,11 +70,22 @@ theme: WhyL
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# deploy:
+  # type: git
+  # repo: git@git.coding.net:whyliam/photo.naaln.com.git
+  # branch: coding-pages
 deploy:
-  type: git
-  repo: git@git.coding.net:whyliam/photo.naaln.com.git
-  branch: coding-pages
-  
+  type: upyun
+  bucket: naaln-photo
+  operator: 
+  password: 
+  endpoint: v0.api.upyun.com
+  secret: secret
+  try_times: 5
+  ignore_path_re:
+    dir: null
+    file: ".DS_Store$"
+
 feed:
   type: atom
   path: atom.xml

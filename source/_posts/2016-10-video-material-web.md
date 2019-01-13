@@ -6,7 +6,7 @@ tags:
 - 纽约州
 - 纽约
 photos:
-- http://pics.naaln.com/098cd229870f59b03bc74e294ecce992.webm
+- http://video.naaln.com/098cd229870f59b03bc74e294ecce992.webm
 - http://pics.naaln.com/2bb477d8c60c798e1210b891dd51f3ee.jpg
 ---
 

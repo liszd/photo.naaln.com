@@ -20,7 +20,7 @@ before_install:
 install:
 - npm install
 script:
-- git submodule update --init --recursive
+- git submodule update --init --recursive --remote
 - hexo clean
 - hexo g
 after_success:

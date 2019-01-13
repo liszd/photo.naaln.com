@@ -6,7 +6,7 @@ tags:
 - 犹他州
 - 布莱斯峡谷国家公园
 photos:
-- http://pics.naaln.com/88fc64be2eed4f94645f5e840568885b.mp4
+- http://video.naaln.com/88fc64be2eed4f94645f5e840568885b.mp4
 - http://pics.naaln.com/f6a698d44f5848d0ccf11f5d553d7657.png
 ---
 

@@ -6,7 +6,7 @@ tags:
 - 圣地亚哥
 - 日落悬崖
 photos:
-- http://pics.naaln.com/7f4ea5f440b9486e1ccd458f86ff307d.mp4
+- http://video.naaln.com/7f4ea5f440b9486e1ccd458f86ff307d.mp4
 - http://pics.naaln.com/01d9c5fdeedbc8a86ce34e017572d1dc.png
 ---
 
